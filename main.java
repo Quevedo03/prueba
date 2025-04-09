@@ -6,6 +6,8 @@ public class main {
 
         
         System.out.println("como estas");
+
+        System.out.println("bien y tu");
      
     }
 
